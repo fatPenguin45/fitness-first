@@ -1,0 +1,14 @@
+.navbar-logo{
+    color: white;
+    width: 5rem;
+    height: 5rem;
+}
+
+.nav-link{
+    font-size: 1rem;
+}
+
+.cover-image{
+    max-width: 100%;
+    height: auto;
+}
